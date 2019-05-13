@@ -6,7 +6,7 @@ typedef unsigned int u32;
 
 void test_func(void)
 {
-
+	printf("test_func. \r\n");
 	return;
 }
 
